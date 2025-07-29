@@ -37,7 +37,7 @@ To run this project locally, make sure you have Flutter installed.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/trillionclues/flutter-transaction-flow-animation.git](https://github.com/trillionclues/flutter-transaction-flow-animation.git)
     cd your-repo-name
     ```
 2.  **Get dependencies:**
