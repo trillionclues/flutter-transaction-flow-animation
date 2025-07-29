@@ -23,21 +23,13 @@ A highly customizable and animated Flutter widget to visualize multi-step transa
 * **CustomPainter:** For drawing bespoke shapes and effects on the canvas.
 * **TickerProviderStateMixin:** For providing tickers to `AnimationController`s.
 
-## Challenges & Future Improvements
-
-This project was a great learning experience in Flutter animations. Some areas I'm still exploring and would welcome contributions/feedback on include:
-
-* **Bubble-like Effect:** Further refining the custom `CustomPainter` to achieve a more organic, truly "bubble-like" or fluid shape for the active/completed step indicators, including a more pronounced "break-out" point.
-* **Completion Splash/Blur:** Implementing a more sophisticated visual flourish (e.g., a blur, glow, or particle splash) when the transaction successfully completes.
-* **Performance Optimization:** Continually looking for ways to optimize animation performance for smoother rendering on various devices.
-
 ## 🚀 How to Run
 
 To run this project locally, make sure you have Flutter installed.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/trillionclues/flutter-transaction-flow-animation.git](https://github.com/trillionclues/flutter-transaction-flow-animation.git)
+    git clone https://github.com/trillionclues/flutter-transaction-flow-animation.git
     cd your-repo-name
     ```
 2.  **Get dependencies:**
@@ -48,6 +40,14 @@ To run this project locally, make sure you have Flutter installed.
     ```bash
     flutter run
     ```
+
+## Challenges & Future Improvements
+
+This project was a great learning experience in Flutter animations. Some areas I'm still exploring and would welcome contributions/feedback on include:
+
+* **Bubble-like Effect:** Further refining the custom `CustomPainter` to achieve a more organic, truly "bubble-like" or fluid shape for the active/completed step indicators, including a more pronounced "break-out" point.
+* **Completion Splash/Blur:** Implementing a more sophisticated visual flourish (e.g., a blur, glow, or particle splash) when the transaction successfully completes.
+* **Performance Optimization:** Continually looking for ways to optimize animation performance for smoother rendering on various devices.
 
 ## License
 
